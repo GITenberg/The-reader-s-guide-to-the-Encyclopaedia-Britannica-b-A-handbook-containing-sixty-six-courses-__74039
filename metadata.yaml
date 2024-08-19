@@ -1,6 +1,9 @@
 _repo: The-reader-s-guide-to-the-Encyclopaedia-Britannica-b-A-handbook-containing-sixty-six-courses-__74039
 _version: 0.1.0
 alternative_title: A guide to readings and studies in the Britannica, 1913
+covers:
+- cover_type: archival
+  image_path: 74039-h/images/cover.jpg
 creator:
   author:
     agent_name: Encyclopaedia Britannica, Inc.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57319
     wikipedia: https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica,_Inc.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74039#The-reader-s-guide-to-the-Encyclopaedia-Britannica-b-A-handbook-containing-sixty-six-courses-_
 gutenberg_issued: '2024-07-14'
 gutenberg_type: Text
 identifiers:
